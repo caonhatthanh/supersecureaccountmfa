@@ -44,6 +44,11 @@
 - Nhấp vào **"Đăng xuất khỏi tất cả thiết bị"** để đảm bảo tài khoản chỉ có thể truy cập từ thiết bị của bạn.
 - Chọn **"Đặt lại Windows Hello trên tất cả các thiết bị Windows"** để loại bỏ quyền truy cập bằng sinh trắc học từ các thiết bị khác.
 
+### 7. Hướng Dẫn Tránh Bị LOCK Tài Khoản Microsoft
+- Để **tránh bị LOCK tài khoản**, khi mua và vào phần thông tin, **đổi ngay tên tài khoản Microsoft** đó.
+- Kiểm tra phần thanh toán tại: [account.microsoft.com/billing/payments](https://account.microsoft.com/billing/payments) xem có **PayPal hoặc Visa** không, nếu không có thì **xóa ngay**.
+- **Hạn chế spam đăng nhập** tài khoản và **đăng nhập trên nhiều máy, nhiều địa chỉ IP khác nhau**, nếu không có thể bị **lock tài khoản** mà **shop không thể xử lý được**!
+
 ---
 
 ## III. Lưu Ý Quan Trọng

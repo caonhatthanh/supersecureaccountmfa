@@ -4,18 +4,18 @@
 
 ---
 
-## I. Hướng Dẫn Quản Lý & Thay Đổi Thông Tin Tài Khoản Microsoft ( NHỮNG BƯỚC NÀY BẠN NÀO ĐÃ LÀM NHƯ VIDEO THÌ KHÔNG CẦN THỰC HIỆN, NHƯNG HÃY LƯU Ý BƯỚC 3 NHÉ VÌ NÓ QUAN TRỌNG )
+## I. Hướng Dẫn Quản Lý & Thay Đổi Thông Tin Tài Khoản Microsoft
 
-### 1. Truy cập vào Trung tâm bảo mật tài khoản:
+### 1. Truy cập vào Trung tâm bảo mật tài khoản (Bỏ qua nếu bạn đã làm theo video):
 - Truy cập [account.live.com/proofs/manage](https://account.live.com/proofs/manage) và đăng nhập vào tài khoản Microsoft của bạn.
 - Nếu hệ thống yêu cầu nhập mã xác nhận, hãy kiểm tra email được liên kết để lấy mã.
 
-### 2. Thêm phương thức xác minh mới:
+### 2. Thêm phương thức xác minh mới (Bỏ qua nếu bạn đã làm theo video):
 - Nhấp vào **"Thêm một phương thức đăng nhập hoặc xác minh mới"**.
 - Chọn **"Gửi mã qua email"**, sau đó nhập địa chỉ email mới.
 - Kiểm tra hộp thư đến để nhận mã và hoàn tất quá trình xác minh.
 
-### 3. Chỉnh sửa thông tin cá nhân:
+### 3. Chỉnh sửa thông tin cá nhân (Quan Trọng):
 - Truy cập [account.microsoft.com/profile](https://account.microsoft.com/profile).
 - **Lưu lại** các thông tin quan trọng như **Họ và Tên, Ngày sinh, Quốc gia** trước khi chỉnh sửa.
 - Cập nhật thông tin cá nhân nếu cần.

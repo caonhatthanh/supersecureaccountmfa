@@ -31,7 +31,7 @@
 - Truy cập [account.microsoft.com/devices/content](https://account.microsoft.com/devices/content).
 
 ### 3. Xóa quyền truy cập của ứng dụng bên thứ ba:
-- Truy cập [microsoft.com/consent](https://microsoft.com/consent).
+- Truy cập [microsoft.com/consent](https://account.live.com/consent/Manage).
 
 ### 4. Hủy các đăng ký dịch vụ không cần thiết:
 - Truy cập [account.microsoft.com/services](https://account.microsoft.com/services).

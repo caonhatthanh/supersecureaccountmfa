@@ -4,78 +4,85 @@
 
 ---
 
-## I. Hướng Dẫn Quản Lý & Thay Đổi Thông Tin Tài Khoản Microsoft
+## 🛠️ I. Hướng Dẫn Quản Lý & Thay Đổi Thông Tin Tài Khoản Microsoft
 
-### 1. Truy cập vào Trung tâm bảo mật tài khoản (Bỏ qua nếu bạn đã làm theo video):
-- Truy cập [account.live.com/proofs/manage](https://account.live.com/proofs/manage) và đăng nhập vào tài khoản Microsoft của bạn.
-- Nếu hệ thống yêu cầu nhập mã xác nhận, hãy kiểm tra email được liên kết để lấy mã.
+### 🔐 1. Truy cập vào Trung tâm bảo mật tài khoản *(Bỏ qua nếu bạn đã làm theo video)*:
+- 🌐 Truy cập [account.live.com/proofs/manage](https://account.live.com/proofs/manage) và đăng nhập vào tài khoản Microsoft của bạn.
+- 📩 Nếu hệ thống yêu cầu mã xác nhận, hãy kiểm tra email được liên kết để lấy mã.
 
-### 2. Thêm phương thức xác minh mới (Bỏ qua nếu bạn đã làm theo video):
-- Nhấp vào **"Thêm một phương thức đăng nhập hoặc xác minh mới"**.
-- Chọn **"Gửi mã qua email"**, sau đó nhập địa chỉ email mới.
-- Kiểm tra hộp thư đến để nhận mã và hoàn tất quá trình xác minh.
+### ➕ 2. Thêm phương thức xác minh mới *(Bỏ qua nếu bạn đã làm theo video)*:
+- 🧩 Nhấp vào **"Thêm một phương thức đăng nhập hoặc xác minh mới"**.
+- ✉️ Chọn **"Gửi mã qua email"**, sau đó nhập địa chỉ email mới.
+- ✅ Kiểm tra hộp thư đến để nhận mã và hoàn tất xác minh.
 
-### 3. Chỉnh sửa thông tin cá nhân (Quan Trọng):
-- Truy cập [account.microsoft.com/profile](https://account.microsoft.com/profile).
-- **Lưu lại** các thông tin quan trọng như **Họ và Tên, Ngày sinh, Quốc gia** trước khi chỉnh sửa.
-- Cập nhật thông tin cá nhân nếu cần.
+### 👤 3. Chỉnh sửa thông tin cá nhân *(Quan trọng)*:
+- 📝 Truy cập [account.microsoft.com/profile](https://account.microsoft.com/profile).
+- 📌 **Lưu lại** các thông tin như **Họ và Tên, Ngày sinh, Quốc gia** trước khi chỉnh sửa.
+- ✍️ Cập nhật nếu cần thiết.
 
 ---
 
-## II. Hướng Dẫn Hoàn Tất Bảo Mật Tài Khoản
+## 🔒 II. Hướng Dẫn Hoàn Tất Bảo Mật Tài Khoản
 
-### 1. Xóa thiết bị đã liên kết với tài khoản:
-- Truy cập [account.microsoft.com/devices](https://account.microsoft.com/devices).
-- **Vì sao cần làm bước này?**  
-  Các thiết bị từng đăng nhập tài khoản vẫn có thể truy cập và thao tác nếu chưa bị gỡ. Xóa thiết bị không còn sử dụng sẽ ngăn nguy cơ rò rỉ dữ liệu hoặc bị truy cập trái phép.
+### 💻 1. Xóa thiết bị đã liên kết:
+- 🔗 Truy cập [account.microsoft.com/devices](https://account.microsoft.com/devices).
+- ❗ **Vì sao cần làm bước này?**  
+  Thiết bị cũ vẫn có thể truy cập nếu chưa bị gỡ. Xóa giúp ngăn rò rỉ dữ liệu.
 
+### 🎮 2. Hủy liên kết nội dung trên thiết bị:
+- 🧭 Truy cập [account.microsoft.com/devices/content](https://account.microsoft.com/devices/content).
+- ❗ **Vì sao cần làm bước này?**  
+  Tránh người khác sử dụng lại apps/games/movies bạn từng mua.
 
-### 2. Hủy liên kết nội dung trên các thiết bị:
-- Truy cập [account.microsoft.com/devices/content](https://account.microsoft.com/devices/content).
-- **Vì sao cần làm bước này?**  
-  Một số thiết bị có thể được cấp quyền truy cập nội dung kỹ thuật số (apps, games, movies...). Nếu bạn không dùng thiết bị đó nữa, cần hủy liên kết để tránh việc người khác vẫn có thể sử dụng hoặc tải về nội dung mà bạn đã mua.
+### 🔗 3. Xóa quyền truy cập ứng dụng bên thứ ba:
+- 🧰 Truy cập [account.live.com/consent/manage](https://account.live.com/consent/Manage).
+- ❗ **Vì sao cần làm bước này?**  
+  Bảo vệ email, danh bạ, dữ liệu khỏi app không còn dùng.
 
+### 🧾 4. Hủy các đăng ký dịch vụ không cần thiết:
+- 💼 Truy cập [account.microsoft.com/services](https://account.microsoft.com/services).
+- ❗ **Vì sao cần làm bước này?**  
+  Ngăn tự động gia hạn hoặc rò rỉ thông tin thanh toán.
 
-### 3. Xóa quyền truy cập của ứng dụng bên thứ ba:
-- Truy cập [account.live.com/consent/manage](https://account.live.com/consent/Manage).
-- **Vì sao cần làm bước này?**  
-  Những ứng dụng bạn từng cấp quyền (như Outlook ngoài, app học tập, add-on trình duyệt...) có thể vẫn còn quyền xem email, danh bạ, lịch sử. Xóa quyền truy cập không cần thiết giúp bảo vệ dữ liệu cá nhân khỏi rủi ro bị khai thác ngầm.
+### 👪 5. Thoát khỏi nhóm gia đình Microsoft *(nếu có)*:
+- 👤 Truy cập [account.microsoft.com/family](https://account.microsoft.com/family).
+- ❗ **Vì sao cần làm bước này?**  
+  Tránh người khác kiểm soát hay theo dõi tài khoản bạn.
 
+### 📤 6. Tắt chức năng chuyển tiếp email (Mail Forwarding):
+- 📬 Truy cập [outlook.live.com/mail/options/mail/forwarding](https://outlook.live.com/mail/options/mail/forwarding).
+- ❗ **Vì sao cần làm bước này?**  
+  Tránh kẻ xấu lén chuyển tiếp email/mã xác minh ra ngoài.
 
-### 4. Hủy các đăng ký dịch vụ không cần thiết:
-- Truy cập [account.microsoft.com/services](https://account.microsoft.com/services).
-- **Vì sao cần làm bước này?**  
-  Những dịch vụ không dùng đến (như Xbox, Office, OneDrive bản thử...) nếu vẫn được liên kết có thể dẫn đến việc tự động gia hạn, lộ thông tin thanh toán hoặc tạo sơ hở trong bảo mật. Hủy chúng giúp tài khoản sạch sẽ và an toàn hơn.
+### 📱 7. Xóa ứng dụng được cấp quyền truy cập tài khoản:
+- 🔐 Truy cập [account.microsoft.com/privacy/app-access](https://account.microsoft.com/privacy/app-access).
+- ❗ **Vì sao cần làm bước này?**  
+  Ngăn các app âm thầm đồng bộ, gửi mail hoặc theo dõi bạn.
 
+### 🚫 8. Hướng Dẫn Tránh Bị LOCK Tài Khoản Microsoft:
+- 💳 Truy cập [account.microsoft.com/billing/payments](https://account.microsoft.com/billing/payments).
+- ❗ **Vì sao cần làm bước này?**  
+  Giảm nguy cơ tài khoản bị khóa do đăng nhập nghi vấn từ nơi lạ.
 
-### 5. Thoát khỏi nhóm gia đình Microsoft (nếu có):
-- Truy cập [account.microsoft.com/family](https://account.microsoft.com/family).
-- **Vì sao cần làm bước này?**  
-  Việc vẫn còn nằm trong một nhóm gia đình có thể cho phép người khác theo dõi hoặc kiểm soát hoạt động tài khoản của bạn. Nếu bạn không biết ai tạo nhóm hoặc không cần dùng tính năng này, hãy thoát ra để đảm bảo quyền riêng tư và kiểm soát tuyệt đối.
+### 🔄 9. Đăng xuất khỏi tất cả thiết bị & đặt lại Windows Hello:
+- 🛡️ Truy cập [account.live.com/proofs/manage](https://account.live.com/proofs/manage).
+- ❗ **Vì sao cần làm bước này?**  
+  Đảm bảo chỉ bạn mới có quyền truy cập từ thiết bị đáng tin cậy.
 
+---
 
-### 6. Tắt chức năng chuyển tiếp email (Mail Forwarding):
-- Truy cập [https://outlook.live.com/mail/options/mail/forwarding](https://outlook.live.com/mail/options/mail/forwarding).
-- **Vì sao cần làm bước này?**  
-  Nếu chức năng chuyển tiếp email bị kẻ xấu thiết lập, toàn bộ email bạn nhận được – bao gồm mã xác minh, thông báo đăng nhập – có thể bị chuyển đến email của họ. Tắt tính năng này giúp ngăn rò rỉ dữ liệu cá nhân và đảm bảo bạn là người duy nhất theo dõi hộp thư.
+## ✅ Bước Kiểm Tra Cuối - Đảm Bảo Tài Khoản Microsoft An Toàn
 
+Trước đó, bạn đã thực hiện các bước bảo mật. Đây là **bước cuối cùng** để xác nhận tài khoản **không còn bị liên kết với thiết bị/máy chủ cũ**.
 
-### 7. Xóa ứng dụng được cấp quyền truy cập tài khoản:
-- Truy cập [https://account.microsoft.com/privacy/app-access](https://account.microsoft.com/privacy/app-access).
-- **Vì sao cần làm bước này?**  
-  Một số ứng dụng đã được bạn (hoặc ai đó) cấp quyền truy cập tài khoản Microsoft để lấy thông tin, đồng bộ dữ liệu hoặc gửi email thay bạn. Nếu không kiểm tra thường xuyên, các app này có thể âm thầm khai thác dữ liệu cá nhân. Việc xóa các ứng dụng không còn sử dụng giúp tăng cường bảo mật và giới hạn rủi ro bị theo dõi hay sử dụng trái phép.
+### 🔍 10. Kiểm tra trạng thái bảo mật tài khoản:
+1. 🧭 Truy cập: [https://zyger.net/middleman/exploit/](https://zyger.net/middleman/exploit/)
+2. ✉️ Nhập email đăng nhập Microsoft của bạn.
+3. 📊 Kết quả:
+   - 🟢 **Dòng chữ màu xanh** → Tài khoản an toàn.
+   - 🔴 **Dòng chữ màu đỏ** → Tài khoản chưa an toàn — vui lòng thực hiện lại các bước phía trên.
 
-
-### 8. Hướng Dẫn Tránh Bị LOCK Tài Khoản Microsoft:
-- Truy cập [account.microsoft.com/billing/payments](https://account.microsoft.com/billing/payments).
-- **Vì sao cần làm bước này?**  
-  Khi tài khoản bị đăng nhập từ nhiều IP, máy khác nhau hoặc có hành vi nghi ngờ, hệ thống Microsoft có thể tự động **lock tài khoản** vì nghi ngờ bị chiếm đoạt. Việc đổi thông tin, kiểm tra phương thức thanh toán, và không đăng nhập lung tung sẽ **tăng độ tin cậy cho tài khoản**, giảm nguy cơ bị khóa.
-
-
-### 9. Đăng xuất khỏi tất cả các thiết bị và đặt lại Windows Hello:
-- Truy cập [account.live.com/proofs/manage](https://account.live.com/proofs/manage).
-- **Vì sao cần làm bước này?**  
-  Nếu trước đó tài khoản được đăng nhập ở máy lạ hoặc máy đã bị bán lại, vẫn có thể tồn tại quyền truy cập cũ. Thoát hoàn toàn khỏi mọi thiết bị và reset Windows Hello sẽ đảm bảo chỉ bạn mới có quyền truy cập – bảo vệ bạn khỏi việc bị truy cập trái phép từ xa.
+> ⚠️ *Lưu ý:* Xóa tài khoản khỏi thiết bị **không đồng nghĩa** đã xóa khỏi máy chủ. Công cụ này giúp bạn xác nhận điều đó.
 
 ---
 

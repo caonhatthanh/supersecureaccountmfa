@@ -1,6 +1,10 @@
-# HƯỚNG DẪN BẢO MẬT VÀ QUẢN LÝ TÀI KHOẢN MICROSOFT
+<h1 align="center">🛡️ HƯỚNG DẪN BẢO MẬT & QUẢN LÝ TÀI KHOẢN MICROSOFT</h1>
 
-> **Fenrion Store - Hệ Thống Quản Lý & Bảo Mật Tài Khoản**
+<p align="center">
+  <b>Fenrion Store</b> – Hệ Thống Hỗ Trợ Kiểm Tra, Quản Lý & Bảo Mật Tài Khoản Microsoft Toàn Diện<br>
+  📘 Đảm bảo an toàn tối đa cho dữ liệu cá nhân và tài khoản của bạn.
+</p>
+
 
 ---
 

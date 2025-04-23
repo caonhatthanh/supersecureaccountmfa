@@ -64,9 +64,11 @@
   Ngăn các app âm thầm đồng bộ, gửi mail hoặc theo dõi bạn.
 
 ### 🚫 8. Hướng Dẫn Tránh Bị LOCK Tài Khoản Microsoft:
-- 💳 Truy cập [account.microsoft.com/billing/payments](https://account.microsoft.com/billing/payments).
+- 💳 Truy cập: [account.microsoft.com/billing/payments](https://account.microsoft.com/billing/payments)
 - ❗ **Vì sao cần làm bước này?**  
-  Giảm nguy cơ tài khoản bị khóa do đăng nhập nghi vấn từ nơi lạ.
+  Tài khoản có thể bị khóa do đăng nhập từ thiết bị/IP lạ hoặc vi phạm chính sách Microsoft.
+> 🔐 Hãy kiểm tra thông tin thanh toán, tránh đăng nhập lung tung, và không dùng công cụ không rõ nguồn gốc để giảm nguy cơ bị khóa.
+
 
 ### 🔄 9. Đăng xuất khỏi tất cả thiết bị & đặt lại Windows Hello:
 - 🛡️ Truy cập [account.live.com/proofs/manage](https://account.live.com/proofs/manage).

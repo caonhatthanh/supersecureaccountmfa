@@ -75,7 +75,6 @@
 - ❗ **Vì sao cần làm bước này?**  
   Đảm bảo chỉ bạn mới có quyền truy cập từ thiết bị đáng tin cậy.
 
----
 
 ## ✅ Bước Kiểm Tra Cuối - Đảm Bảo Tài Khoản Microsoft An Toàn
 

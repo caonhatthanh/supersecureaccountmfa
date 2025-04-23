@@ -21,6 +21,7 @@
 
 ### 👤 3. Chỉnh sửa thông tin cá nhân *(Quan trọng)*:
 - 📝 Truy cập [account.microsoft.com/profile](https://account.microsoft.com/profile).
+- 📝 Truy cập [account.live.com/editprof.aspx](https://account.live.com/editprof.aspx).
 - 📌 **Lưu lại** các thông tin như **Họ và Tên, Ngày sinh, Quốc gia** trước khi chỉnh sửa.
 - ✍️ Cập nhật nếu cần thiết.
 

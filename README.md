@@ -149,7 +149,7 @@ Trước đó, bạn đã thực hiện các bước bảo mật. Đây là **b�
 
 - 👁️‍🗨️ **Nếu nghi ngờ bị xâm nhập:**  
   ➤ Đổi mật khẩu ngay.  
-  ➤ Kiểm tra thiết bị đang đăng nhập tại [Microsoft Security](https://account.microsoft.com/security).
+  ➤ Kiểm tra thiết bị đang đăng nhập tại Microsoft và gỡ bỏ,Đăng xuất các thiết bị.
 
 ---
 

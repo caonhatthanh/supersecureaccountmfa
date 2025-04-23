@@ -79,7 +79,44 @@
 
 ---
 
-## III. Lưu Ý Quan Trọng
+
+## III. Cách Tránh Bị Lock Tài Khoản (Bổ Sung)
+
+### 1. Một vài lưu ý tránh lock tài khoản:
+- **Nghe bài trình chưa?**  
+  Đảm bảo rằng bạn đã nắm rõ các bước bảo mật cơ bản để không gặp phải tình huống tài khoản bị khóa không mong muốn.
+
+- **Đổi mail bí danh chính không nên để mail Outlook**  
+  Microsoft có thể nghi ngờ nếu bạn sử dụng một địa chỉ mail Outlook làm bí danh chính. Điều này có thể khiến tài khoản bị khóa trong trường hợp có bất kỳ thay đổi đáng ngờ nào. Hãy cân nhắc việc sử dụng địa chỉ email khác cho bí danh chính.
+
+- **Không log nhiều thiết bị, nhiều nơi khác nhau**  
+  Việc đăng nhập tài khoản từ nhiều thiết bị và các vị trí địa lý khác nhau có thể bị xem là dấu hiệu của hành vi đáng ngờ. Hạn chế việc đăng nhập vào tài khoản từ các thiết bị không quen thuộc hoặc địa điểm không xác định để tránh bị khóa tài khoản.
+
+- **Chỉ nên đổi thông tin như Name, DOB và Mail Security**  
+  Thay đổi thông tin quá nhiều trong một khoảng thời gian ngắn có thể khiến hệ thống của Microsoft nghi ngờ tài khoản của bạn. Nếu cần thay đổi, hãy chỉ thay đổi các thông tin như **Tên, Ngày sinh, và Thông tin bảo mật** như địa chỉ email khôi phục hoặc mật khẩu.
+
+- **Nên login thường xuyên tại cả web và launcher**  
+  Để tài khoản không bị coi là không hoạt động, bạn nên đăng nhập vào tài khoản của mình thường xuyên, cả qua **web** và **launcher**. Điều này giúp tài khoản của bạn không bị hệ thống đánh dấu là "không hoạt động", điều này có thể dẫn đến việc khóa tài khoản.
+
+
+### 2. Mở lock tài khoản của bạn:
+- **Microsoft hoạt động theo hệ thống điểm (3/5 = unlock)**  
+  Microsoft áp dụng một hệ thống đánh giá dựa trên các điểm số hành vi, nếu tài khoản bị lock, bạn sẽ phải đạt ít nhất 3/5 điểm từ các yêu cầu bảo mật để mở khóa tài khoản. Bạn có thể dễ dàng mở khóa tài khoản nếu cung cấp đủ thông tin cần thiết.
+
+- **Bạn có thể mở khóa khá dễ dàng bằng mail OGI + 3 Password gần nhất**  
+  Trong trường hợp tài khoản bị khóa, bạn chỉ cần cung cấp thông tin sau:
+  - **Địa chỉ email OGI (Email khôi phục)** 
+  - **Ba mật khẩu gần nhất bạn đã sử dụng**
+
+- **Chỉ cần mail cho Microsoft với những thông tin trên và đề cập rõ là "Account Unlock Request"**  
+  Để mở khóa tài khoản, bạn cần gửi một email đến bộ phận hỗ trợ của Microsoft. Trong email, cung cấp đầy đủ thông tin trên và yêu cầu mở khóa tài khoản. Đảm bảo rằng bạn sử dụng **địa chỉ email khôi phục** và thông tin chính xác nhất.
+
+- **Lưu ý**  
+  Bạn có thể "secure" tài khoản của mình 3-4 lần và **save lại các thông tin quan trọng** như mật khẩu, địa chỉ email khôi phục, và thông tin bảo mật. Việc này giúp bạn đề phòng trường hợp tài khoản bị khóa và tiết kiệm thời gian khi cần mở khóa lại.
+
+---
+
+## IV. Lưu Ý Quan Trọng
 
 - 🔹 **Bảo mật tài khoản là trách nhiệm của mỗi cá nhân.** Không chia sẻ tài khoản với người lạ hoặc truy cập các trang web đáng ngờ.
 - 🔹 **Không sử dụng cùng một mật khẩu cho nhiều tài khoản khác nhau.**

@@ -91,47 +91,71 @@ Trước đó, bạn đã thực hiện các bước bảo mật. Đây là **b�
 ---
 
 
-## III. Cách Tránh Bị Lock Tài Khoản (Bổ Sung)
+## 🧱 III. CÁCH TRÁNH BỊ LOCK TÀI KHOẢN (BỔ SUNG)
 
-### 1. Một vài lưu ý quan trọng để tránh bị lock tài khoản:
-- **Không sử dụng mail Outlook làm bí danh chính**  
-  Microsoft có thể dễ dàng nhận diện tài khoản nếu bạn dùng **email Outlook** làm bí danh chính, khiến tài khoản dễ dàng bị khoá. Hãy chọn địa chỉ email an toàn khác ngoài Outlook để tránh gặp phải tình huống không mong muốn.
+### ⚠️ 1. Một vài lưu ý quan trọng để **tránh bị khoá tài khoản**:
 
-- **Tránh đăng nhập từ nhiều thiết bị và vị trí khác nhau**  
-  Việc đăng nhập tài khoản từ **nhiều thiết bị** và **nhiều địa chỉ IP khác nhau** có thể khiến Microsoft nghi ngờ về tính hợp lệ của tài khoản. Để bảo mật tối ưu, hãy hạn chế đăng nhập từ các thiết bị và địa điểm không quen thuộc hoặc không đáng tin cậy.
+- 🚫 **Không dùng Outlook làm bí danh chính**  
+  ➤ Microsoft dễ nhận diện & khóa tài khoản nếu bí danh chính là email Outlook.  
+  ➤ Hãy dùng email khác như Gmail, Yahoo,... để tăng độ an toàn.
 
-- **Chỉ nên thay đổi thông tin quan trọng như Tên, Ngày Sinh và Thông tin Bảo mật**  
-  Việc thay đổi thông tin quá nhiều trong thời gian ngắn có thể dẫn đến việc tài khoản bị khóa. Để tránh rủi ro, chỉ nên cập nhật các thông tin như **Tên**, **Ngày sinh**, và thông tin liên quan đến **bảo mật** (như email khôi phục hoặc số điện thoại).
+- 🌐 **Hạn chế đăng nhập từ nhiều thiết bị & vị trí lạ**  
+  ➤ Tránh đăng nhập từ quá nhiều máy hoặc IP khác nhau.  
+  ➤ Ưu tiên dùng thiết bị quen thuộc và mạng ổn định.
 
-- **Đảm bảo thường xuyên đăng nhập vào tài khoản qua cả web và launcher**  
-  Để duy trì tính ổn định của tài khoản và tránh bị khóa do không hoạt động lâu, hãy **đăng nhập định kỳ** vào tài khoản qua cả **website** và **launcher** của Microsoft.
+- 🛑 **Không thay đổi thông tin quá thường xuyên**  
+  ➤ Việc cập nhật liên tục tên, ngày sinh,... có thể khiến hệ thống nghi ngờ.  
+  ➤ Chỉ chỉnh sửa khi thật sự cần thiết, tránh lạm dụng.
 
-
-### 2. Cách mở khóa tài khoản của bạn:
-- **Microsoft sử dụng hệ thống điểm để đánh giá hành vi (3/5 điểm = unlock)**  
-  Microsoft áp dụng hệ thống **đánh giá điểm** khi tài khoản bị khóa. Bạn cần đạt ít nhất **3/5 điểm** từ các yêu cầu bảo mật để có thể mở khóa tài khoản.
-
-- **Dễ dàng mở khóa tài khoản bằng email OGI và 3 mật khẩu gần nhất**  
-  Nếu tài khoản bị khóa, bạn có thể dễ dàng mở khóa bằng cách cung cấp:
-  - **Email khôi phục OGI (email đã được đăng ký)**
-  - **Ba mật khẩu gần nhất bạn đã sử dụng**
-
-- **Gửi email yêu cầu mở khóa tài khoản (Account Unlock Request)**  
-  Để mở khóa, bạn chỉ cần **gửi email** cho bộ phận hỗ trợ của Microsoft, cung cấp thông tin **email OGI và mật khẩu gần nhất**, và đề cập rõ ràng trong tiêu đề: "**Account Unlock Request**".
-
-- **Lưu ý khi bảo mật tài khoản**  
-  Bạn có thể thực hiện việc bảo vệ tài khoản bằng cách "secure" tài khoản **3-4 lần** và **lưu trữ thông tin quan trọng** như mật khẩu, email khôi phục, và thông tin bảo mật khác. Điều này sẽ giúp bạn nhanh chóng khôi phục tài khoản nếu bị khóa trong tương lai mà không gặp phải bất kỳ khó khăn nào.
+- 🔁 **Đăng nhập định kỳ cả trên web lẫn launcher**  
+  ➤ Đảm bảo tài khoản vẫn đang hoạt động đều.  
+  ➤ Hạn chế việc bị khóa do nghi ngờ không sử dụng hoặc bị bot.
 
 ---
 
-## IV. Lưu Ý Quan Trọng
+### 🔓 2. Cách **mở khóa** tài khoản nếu đã bị lock:
 
-- 🔹 **Bảo mật tài khoản là trách nhiệm của mỗi cá nhân.** Không chia sẻ tài khoản với người lạ hoặc truy cập các trang web đáng ngờ.
-- 🔹 **Không sử dụng cùng một mật khẩu cho nhiều tài khoản khác nhau.**
-- 🔹 **Không sử dụng Launcher CR4CK, Hoặc đăng nhập tài khoản vào các trang web không chính thống.**
-- 🔹 **Luôn kích hoạt xác minh hai bước (2FA) để tăng cường bảo mật.**
-- 🔹 **Nếu nghi ngờ có ai đó xâm nhập tài khoản, hãy đổi mật khẩu ngay lập tức và kiểm tra lại danh sách thiết bị đã đăng nhập.**
+- 📊 **Microsoft chấm điểm bảo mật (3/5 điểm = mở khoá)**  
+  ➤ Bạn cần đạt **ít nhất 3/5 điểm** khi trả lời câu hỏi bảo mật hoặc cung cấp thông tin xác thực.
+
+- 📧 **Dễ mở khóa bằng email OGI + 3 mật khẩu gần nhất**  
+  ➤ Cung cấp:
+    - Email khôi phục OGI đã đăng ký.
+    - Ba mật khẩu gần nhất bạn từng sử dụng.
+
+- 📨 **Gửi email yêu cầu mở khoá - "Account Unlock Request"**  
+  ➤ Gửi email tới bộ phận hỗ trợ Microsoft.  
+  ➤ Tiêu đề nên để: `"Account Unlock Request"`  
+  ➤ Kèm theo thông tin: Email OGI, mật khẩu cũ, các chi tiết xác minh.
+
+- 🛡️ **Secure lại tài khoản 3–4 lần và lưu thông tin bảo mật**  
+  ➤ Thường xuyên kiểm tra, cập nhật và lưu trữ các thông tin quan trọng.  
+  ➤ Giúp dễ dàng khôi phục nếu sau này bị khoá lần nữa.
 
 ---
 
-💎 **Fenrion Store - An toàn và bảo mật tài khoản của bạn là ưu tiên hàng đầu!** 💎
+## 🚨 IV. LƯU Ý QUAN TRỌNG
+
+- 🔒 **Bảo mật tài khoản là trách nhiệm cá nhân.**  
+  ➤ Không chia sẻ tài khoản với người lạ.  
+  ➤ Tránh truy cập các trang web không rõ nguồn gốc.
+
+- 🔁 **Không sử dụng cùng một mật khẩu cho nhiều tài khoản.**  
+  ➤ Hãy tạo các mật khẩu riêng biệt và mạnh mẽ cho từng nền tảng.
+
+- 🚫 **Không sử dụng Launcher CR4CK hoặc đăng nhập vào các web lạ.**  
+  ➤ Đây là nguyên nhân phổ biến khiến tài khoản bị đánh cắp hoặc khóa.
+
+- 🛡️ **Luôn bật xác minh hai bước (2FA).**  
+  ➤ Tăng cường lớp bảo vệ cho tài khoản trước các mối nguy tiềm ẩn.
+
+- 👁️‍🗨️ **Nếu nghi ngờ bị xâm nhập:**  
+  ➤ Đổi mật khẩu ngay.  
+  ➤ Kiểm tra thiết bị đang đăng nhập tại [Microsoft Security](https://account.microsoft.com/security).
+
+---
+
+<p align="center">
+  💎 <strong>Fenrion Store</strong> - <em>An toàn và bảo mật tài khoản của bạn là ưu tiên hàng đầu!</em> 💎
+</p>
+

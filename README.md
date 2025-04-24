@@ -64,13 +64,14 @@
 - ❗ **Vì sao cần làm bước này?**  
   Ngăn các app âm thầm đồng bộ, gửi mail hoặc theo dõi bạn.
 
-### 🚫 8. Xóa tất cả thông tin thanh toán để tránh LOCK:
+### 🚫 8. Xóa thông tin thanh toán để tránh bị **LOCK**
 - 💳 Truy cập: [account.microsoft.com/billing/payments](https://account.microsoft.com/billing/payments)
-- ❗ **Vì sao cần làm bước này?**  
-  Khi tài khoản có thông tin thanh toán (như thẻ tín dụng, PayPal...) được lưu, việc đăng nhập từ thiết bị hoặc địa chỉ IP lạ có thể khiến hệ thống Microsoft đánh giá là hành vi bất thường, dẫn đến việc khóa tài khoản để bảo vệ người dùng.  
-  👉 Lưu ý việc bị khóa tài khoản lúc nào cũng có rủi ro,Nhưng thường xảy ra với các tài khoản thông dụng.Và về vấn đề đó cũng không thể nào tránh hoàn toàn chỉ có thể giảm thiểu.Shop không thể hỗ trợ bảo hành trên bất cứ trường hợp tài khoản bị LOCK,Do LOCK đồng nghĩa với việc tài khoản đã vi phạm chính sách của Microsoft
 
-> 🔐 Hãy kiểm tra kỹ thông tin thanh toán, tránh đăng nhập lung tung và không sử dụng công cụ không rõ nguồn gốc để giữ tài khoản an toàn.
+#### ❗ **Vì sao cần làm?**  
+Khi tài khoản lưu thẻ tín dụng hoặc PayPal, nếu đăng nhập từ thiết bị hoặc IP lạ, hệ thống Microsoft có thể nghi ngờ và **tự động khóa tài khoản** để bảo vệ người dùng.  
+➤ Việc **gỡ phương thức thanh toán** giúp giảm rủi ro bị khóa do hoạt động bất thường. Tuy nhiên, **không thể loại bỏ hoàn toàn nguy cơ**. Shop **không bảo hành** nếu tài khoản bị LOCK do vi phạm chính sách Microsoft.
+
+> ⚠️ Hạn chế đăng nhập lung tung và không dùng công cụ không rõ nguồn để giữ tài khoản an toàn.
 
 
 ### 🔄 9. Đăng xuất khỏi tất cả thiết bị & đặt lại Windows Hello:

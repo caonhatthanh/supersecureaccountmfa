@@ -66,8 +66,7 @@
 
 ### 🚫 8. Xóa thông tin thanh toán để tránh bị **LOCK**
 - 💳 Truy cập: [account.microsoft.com/billing/payments](https://account.microsoft.com/billing/payments)
-
-#### ❗ **Vì sao cần làm?**  
+- ❗ **Vì sao cần làm?**  
 Khi tài khoản lưu thẻ tín dụng hoặc PayPal, nếu đăng nhập từ thiết bị hoặc IP lạ, hệ thống Microsoft có thể nghi ngờ và **tự động khóa tài khoản** để bảo vệ người dùng.  
 ➤ Việc **gỡ phương thức thanh toán** giúp giảm rủi ro bị khóa do hoạt động bất thường. Tuy nhiên, **không thể loại bỏ hoàn toàn nguy cơ**. Shop **không bảo hành** nếu tài khoản bị LOCK do vi phạm chính sách Microsoft.
 

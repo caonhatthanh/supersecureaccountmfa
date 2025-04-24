@@ -68,7 +68,7 @@
 - 💳 Truy cập: [account.microsoft.com/billing/payments](https://account.microsoft.com/billing/payments)
 - ❗ **Vì sao cần làm bước này?**  
   Khi tài khoản có thông tin thanh toán (như thẻ tín dụng, PayPal...) được lưu, việc đăng nhập từ thiết bị hoặc địa chỉ IP lạ có thể khiến hệ thống Microsoft đánh giá là hành vi bất thường, dẫn đến việc khóa tài khoản để bảo vệ người dùng.  
-  👉 Việc xóa thông tin thanh toán giúp giảm nguy cơ bị khóa tài khoản do các hoạt động bị cho là đáng ngờ, đặc biệt khi sử dụng tài khoản trên nhiều thiết bị khác nhau.
+  👉 Lưu ý việc bị khóa tài khoản lúc nào cũng có rủi ro,Nhưng thường xảy ra với các tài khoản thông dụng.Và về vấn đề đó cũng không thể nào tránh hoàn toàn chỉ có thể giảm thiểu.Shop không thể hỗ trợ bảo hành trên bất cứ trường hợp tài khoản bị LOCK,Do LOCK đồng nghĩa với việc tài khoản đã vi phạm chính sách của Microsoft
 
 > 🔐 Hãy kiểm tra kỹ thông tin thanh toán, tránh đăng nhập lung tung và không sử dụng công cụ không rõ nguồn gốc để giữ tài khoản an toàn.
 

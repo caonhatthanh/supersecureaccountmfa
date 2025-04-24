@@ -64,7 +64,7 @@
 - ❗ **Vì sao cần làm bước này?**  
   Ngăn các app âm thầm đồng bộ, gửi mail hoặc theo dõi bạn.
 
-### 🚫 8. Hướng Dẫn Tránh Bị LOCK Tài Khoản Microsoft:
+### 🚫 8. Xóa thông thông tin thanh toán để tránh LOCK:
 - 💳 Truy cập: [account.microsoft.com/billing/payments](https://account.microsoft.com/billing/payments)
 - ❗ **Vì sao cần làm bước này?**  
   Tài khoản có thể bị khóa do đăng nhập từ thiết bị/IP lạ hoặc vi phạm chính sách Microsoft.
